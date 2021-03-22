@@ -1,0 +1,1 @@
+java -jar AldlMainService-1.0-SNAPSHOT.jar
